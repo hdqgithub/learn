@@ -1,5 +1,5 @@
 public class SchoolSystem implements ISignUp{
-
+// 第四周-git大作业修改测试
     Integer big;
     Integer medium;
     Integer small;
