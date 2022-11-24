@@ -16,6 +16,8 @@ public class SchoolSystem implements ISignUp{
     }
 
     //第一次添加注释
+
+    //在其他分支中修改代码文件
     @Override
     public boolean addStudent(int stuType) {
         switch (stuType){
